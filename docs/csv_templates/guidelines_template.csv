@@ -1,0 +1,9 @@
+guideline_id,guideline_name,organization_id,visibility_scope,is_active,description
+guideline-unicef-001,UNICEF Proposal Guidelines 2025,org-unicef,organization,TRUE,Internal UNICEF-specific guidelines
+guideline-gates-001,Gates Foundation Requirements,org-gates,organization,TRUE,Internal Gates Foundation requirements
+guideline-public-001,Proposal Writing Best Practices,org-abcd-public,public_mapped,TRUE,Common best practices for all partners
+guideline-public-002,Budget Template Guidelines,org-abcd-public,public_mapped,TRUE,Standard budget preparation guidelines
+guideline-public-003,M&E Framework Standards,org-abcd-public,public_mapped,TRUE,Monitoring and evaluation standards
+guideline-public-004,Gender Mainstreaming Guide,org-abcd-public,public_mapped,TRUE,Gender considerations in proposals
+guideline-universal-001,Universal Proposal Tips,org-abcd-public,universal,TRUE,Available to everyone
+guideline-universal-002,Writing for Impact,org-abcd-public,universal,TRUE,Available to everyone

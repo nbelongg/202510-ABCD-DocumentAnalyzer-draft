@@ -1,0 +1,21 @@
+organization_id,organization_name,email_domains,is_active,notes
+org-unicef,UNICEF,"unicef.org,unicef.ch",TRUE,United Nations Children's Fund
+org-gates,Gates Foundation,"gatesfoundation.org,gates.com",TRUE,Bill & Melinda Gates Foundation
+org-who,World Health Organization,who.int,TRUE,WHO
+org-world-bank,World Bank,worldbank.org,TRUE,International financial institution
+org-usaid,USAID,usaid.gov,TRUE,US Agency for International Development
+org-dfid,FCDO,fcdo.gov.uk,TRUE,UK Foreign Commonwealth Development Office
+org-giz,GIZ,giz.de,TRUE,Deutsche Gesellschaft für Internationale Zusammenarbeit
+org-sida,Sida,sida.se,TRUE,Swedish International Development Cooperation Agency
+org-norad,Norad,norad.no,TRUE,Norwegian Agency for Development Cooperation
+org-danida,Danida,um.dk,TRUE,Danish International Development Agency
+org-jica,JICA,jica.go.jp,TRUE,Japan International Cooperation Agency
+org-ausaid,DFAT,dfat.gov.au,TRUE,Department of Foreign Affairs and Trade Australia
+org-nzaid,MFAT,mfat.govt.nz,TRUE,New Zealand Ministry of Foreign Affairs
+org-cida,GAC,international.gc.ca,TRUE,Global Affairs Canada
+org-irish-aid,Irish Aid,dfa.ie,TRUE,Ireland's programme of assistance
+org-swiss-dev,SDC,eda.admin.ch,TRUE,Swiss Agency for Development and Cooperation
+org-ec,European Commission,ec.europa.eu,TRUE,European Commission
+org-undp,UNDP,undp.org,TRUE,United Nations Development Programme
+org-unhcr,UNHCR,unhcr.org,TRUE,UN Refugee Agency
+org-wfp,WFP,wfp.org,TRUE,World Food Programme

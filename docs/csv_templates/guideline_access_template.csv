@@ -1,0 +1,11 @@
+organization_id,guideline_id,granted_by,notes
+org-unicef,guideline-public-001,admin@abcd.org,Common best practices
+org-unicef,guideline-public-002,admin@abcd.org,Budget guidelines
+org-unicef,guideline-public-003,admin@abcd.org,M&E standards
+org-unicef,guideline-public-004,admin@abcd.org,Gender guide
+org-gates,guideline-public-001,admin@abcd.org,Common best practices
+org-gates,guideline-public-002,admin@abcd.org,Budget guidelines
+org-gates,guideline-public-003,admin@abcd.org,M&E standards
+org-who,guideline-public-001,admin@abcd.org,Common best practices
+org-who,guideline-public-002,admin@abcd.org,Budget guidelines
+org-world-bank,guideline-public-001,admin@abcd.org,Common best practices
